@@ -1,2 +1,0 @@
-# crud-dengan-bootstrap
-Coding
